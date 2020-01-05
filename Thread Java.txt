@@ -1,7 +1,22 @@
-﻿- method thread : + start()
-		+ run()
+﻿- method thread : + start() - tạo ra thread mới, tiến trình song song
+		+ run() - ko tjao thread mới , join vào curent thread
 		+ setName()
 		+ join()
 		+ setPriority()
 		+ interrupt()
 		+ isAlive()
+class CustomerThread extends Thread {
+orverride run()
+
+ }
+
+customerthread.start()
++ interrupt() tạm dừng hoạt động hiện của thread để làm việc khác
++ setPriority(), set max, min, normal, tuy nhiên ko đảm bảo thứ tự mong muốn thread care  
+Interface Runnable: ( chỉ có phương  thức run)
+public class enroll implements Runnable {
+
+	run () {
+		
+}
+}
