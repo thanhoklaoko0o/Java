@@ -1,0 +1,19 @@
+﻿java file
+directory
+1byte = 8 bit
+
+file file = new file("D:/data/text.txt")
+
+FileInputStream
+FileOutputStream
+=> đọc dữ liệu kiểu byte
+=>( Fr.read() lưu giá trị 8 byte cuối )
+
+vs 
+
+FileReader (Fr)
+FileWrite
+=> character stream ( Fr.read() lưu giá trị 16 bit cuối )
+=> đọc dữ liệu file chuyển từ byte sang ký tự
+
+----Java NIO2 ( new input output verson 2)

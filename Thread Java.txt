@@ -1,0 +1,7 @@
+﻿- method thread : + start()
+		+ run()
+		+ setName()
+		+ join()
+		+ setPriority()
+		+ interrupt()
+		+ isAlive()
