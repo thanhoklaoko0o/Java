@@ -1,0 +1,5 @@
+https://www.callicoder.com/spring-boot-file-upload-download-jpa-hibernate-mysql-database-example/
+
+https://codippa.com/how-to-convert-a-file-to-byte-array-in-java/
+
+https://www.programcreek.com/2009/02/java-convert-a-file-to-byte-array-then-convert-byte-array-to-a-file/
